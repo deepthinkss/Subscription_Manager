@@ -107,3 +107,4 @@ export const Button: React.FC<ButtonProps> = ({
 };
 
 const styles = StyleSheet.create({});
+// styling the custom button 
